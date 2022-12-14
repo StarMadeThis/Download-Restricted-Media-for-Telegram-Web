@@ -1,6 +1,8 @@
 # **How to download Restricted Media on Telegram Web!**
 
 ## This only works on Telegram Web version.
+![Proof](https://dl.uploadgram.me/6399e3e1f1a05h?dl)
+
 
 ### 🍏 Step 1: install a user script manager
 
